@@ -51,6 +51,6 @@ WORKDIR /var/www/html
 
 RUN chmod -R 777 /var/www/html/design
 RUN chmod -R 777 /var/www/html/images
-RUN chmod -R 777 /var/www/html/install
+#RUN chmod -R 777 /var/www/html/install
 RUN chmod -R 777 /var/www/html/var
 RUN chmod -R 666 /var/www/html/config.local.php
