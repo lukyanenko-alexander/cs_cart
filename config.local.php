@@ -30,7 +30,7 @@ if (!defined('CONSOLE')) {
 /*
  * Database connection options
  */
-$config['db_host'] = '172.25.0.1';
+$config['db_host'] = '172.20.0.1';
 $config['db_name'] = 'db';
 $config['db_user'] = 'root';
 $config['db_password'] = 'secret';
