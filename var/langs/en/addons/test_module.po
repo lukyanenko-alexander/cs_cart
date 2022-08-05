@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: en_US"
+
+msgctxt "Addons::name::test_module"
+msgid "Test module"
+msgstr "Test module"
+
+msgctxt "Addons::description::test_module"
+msgid "Test module description"
+msgstr "Description"
+
+msgctxt "Languages::test"
+msgid "Test"
+msgstr "Test"
+
+msgctxt "Languages::test_template"
+msgid "Test template"
+msgstr "Test template"
